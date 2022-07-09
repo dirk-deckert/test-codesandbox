@@ -1,7 +1,7 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
+<h1>What about this, and what about this???</h1>
 <div>
   We use the same configuration as Parcel to bundle this sandbox, you can find more
   info about Parcel 
@@ -9,8 +9,4 @@ document.getElementById("app").innerHTML = `
 </div>
 `;
 
-console.log("Hello, world from the console!");
-
-let v = [1, 2, 3];
-
-console.log(v);
+console.log("This works pretty well!");
